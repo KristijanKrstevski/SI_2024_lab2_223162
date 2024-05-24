@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-05-22T12:51:18" hostname="DESKTOP-3PU26G9" time="0.03">
+  <properties/>
+  <testcase name="testItemWithoutBarcode()" classname="SILab2Test" time="0.017"/>
+  <testcase name="testTen()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testItemWithNameNull()" classname="SILab2Test" time="0.0"/>
+  <testcase name="testTotalSumGreaterThanPayment()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testItemWithoutDiscount()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testEmptyList()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testAllItemsNull()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testItemWithInvalidBarcode()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testItemWithPriceGreaterThan300DiscountAndBarcodeStartingWith0()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testItemWithDiscount()" classname="SILab2Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
